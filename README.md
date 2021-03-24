@@ -26,5 +26,5 @@ _Ponyo loves ham!_
 </a>
 
 <a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ethankelly&repo=research-t&theme=great-gatsby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ethankelly&repo=research&theme=great-gatsby" />
 </a>   
