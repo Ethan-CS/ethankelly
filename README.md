@@ -15,6 +15,10 @@ My name's Ethan. I'm a PhD student at the University of Glasgow (Scotland) and m
 
 ![](ponyo_loves_ham.gif)
 
+<p align="center">
+  <img width="540" height="290" src="http://www.ethankelly/ethankelly/ponyo_loves_ham.gif">
+</p>
+
 _Ponyo loves ham!_
 
 <!-- Shields -->
