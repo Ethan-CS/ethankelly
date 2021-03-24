@@ -24,3 +24,5 @@ _Ponyo loves ham!_
 <a href="https://github.com/ethankelly">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ethankelly&layout=compact&theme=great-gatsby" />
 </a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ethankelly&repo=research)](https://github.com/ethankelly/research)
