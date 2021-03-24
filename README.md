@@ -17,9 +17,16 @@ My name's Ethan. I'm a PhD student at the University of Glasgow (Scotland) and m
 
 _Ponyo loves ham!_
 
+<!-- Shields -->
+
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-Wolfram Mathematica-informational?style=flat&logo=python&logoColor=white&color=yellow)
+
 
 <a href="https://github.com/ethankelly">
-<img align="center" alt="Ethan Kelly's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ethankelly&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=great-gatsby" /></a>
+<img align="center" alt="Ethan Kelly's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ethankelly&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=great-gatsby&hide=contribs,issues" /></a>
 
 <a href="https://github.com/ethankelly">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ethankelly&layout=compact&theme=great-gatsby" />
