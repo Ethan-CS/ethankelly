@@ -38,6 +38,8 @@ My name's Ethan. I'm a PhD student at the University of Glasgow (Scotland) and m
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ethankelly&layout=compact&theme=great-gatsby" />
 </a>
 
+<!-- Link to research repo
 <a href="https://github.com/MartinHeinz/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ethankelly&repo=research&theme=great-gatsby" />
 </a>   
+-->
