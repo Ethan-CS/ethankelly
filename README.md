@@ -4,7 +4,7 @@
 **ethankelly/ethankelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-My name's Ethan. I'm a PhD student at the University of Glasgow (Scotland) and my main research interests are games and spreading processes on graphs and combinatorial differential equations. I also help to teach a number of courses in Computing Science at Glasgow.
+My name's Ethan. I'm a PhD student at the University of Glasgow (Scotland) and my main research interests are _games on graphs,_  _spreading processes on networks_ and _combinatorial differential equations._ I also help to teach a number of courses in Computing Science at Glasgow.
 
 - 🔭 I’m currently working on code that runs an agency-based model of infectious disease [here](https://github.com/ethankelly/Agency)
 - 👯 I’m looking to collaborate on work related to infectious disease modelling, computationally and/or mathematically.
