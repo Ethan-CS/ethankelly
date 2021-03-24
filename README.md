@@ -11,4 +11,6 @@ My name's Ethan. I'm a PhD student at the University of Glasgow (Scotland) and m
 - 🤔 I’m looking for help with representing a recursive method graphically, perhaps as a flow chart.
 - 📫 How to reach me: my email is [e.kelly.1@research.gla.ac.uk](mailto:e.kelly.1@research.gla.ac.uk)
 - 😄 Pronouns: he/him.
+- 🔦 My profile picture is from the Studio Ghibli film _Ponyo._
 
+![](ponyo_loves_ham.gif)
