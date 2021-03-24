@@ -25,4 +25,6 @@ _Ponyo loves ham!_
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ethankelly&layout=compact&theme=great-gatsby" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ethankelly&repo=research)](https://github.com/ethankelly/research)
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ethankelly&repo=research-t&theme=great-gatsby" />
+</a>   
