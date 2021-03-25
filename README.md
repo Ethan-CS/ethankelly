@@ -13,7 +13,7 @@ My name's Ethan. I'm a PhD student at the University of Glasgow (Scotland) and m
 - 😄 Pronouns: he/him.
 - 🔦 My profile picture is of the character _Ponyo_ from the Studio Ghibli film of the same name.
 
-<!-- Ponyo loves ham gif -->
+<!-- Ponyo loves ham! -->
 
 <p align="center">
   <img width="540" height="290" src="https://github.com/ethankelly/ethankelly/blob/main/ponyo_loves_ham.gif">
@@ -37,9 +37,3 @@ My name's Ethan. I'm a PhD student at the University of Glasgow (Scotland) and m
 <a href="https://github.com/ethankelly">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ethankelly&layout=compact&theme=great-gatsby" />
 </a>
-
-<!-- Link to research repo
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ethankelly&repo=research&theme=great-gatsby" />
-</a>   
--->
