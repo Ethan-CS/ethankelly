@@ -27,7 +27,6 @@ My name's Ethan. I'm a PhD student at the University of Glasgow (Scotland) and m
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-Wolfram%20Mathematica-informational?style=flat&logo=wolfram-mathematica&logoColor=white&color=yellow)
 
 <!-- GitHub stats -->
 
